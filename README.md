@@ -47,9 +47,11 @@ Este proyecto está bajo la licencia **MIT**.
 
 
 ## 📌 Mejoras futuras
+```bash
 🔥 Agregar sonidos 🎵
 🔥 Implementar niveles de dificultad 🚀
 🔥 Mejorar el diseño de la interfaz 🎨
+```
 
 ## 📞 Contacto
 
