@@ -8,7 +8,7 @@ Un juego clásico de la serpiente hecho con **HTML, CSS y JavaScript**.
 ✅ **Puntaje alto almacenado en el localStorage**  
 ✅ **Diseño responsivo para dispositivos móviles y PC**  
 ✅ **Interfaz minimalista con colores oscuros y modernos** 
-✅ **Reinicio automático tras perder la partida**  
+✅ **Reinicio automático tras perder la partida** 
 ✅ **Controles táctiles en dispositivos móviles**   
 
 ## 🚀 Tecnologías utilizadas
