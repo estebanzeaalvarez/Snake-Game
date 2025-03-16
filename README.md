@@ -4,12 +4,12 @@ Un juego clásico de la serpiente hecho con **HTML, CSS y JavaScript**.
 
 ## 📌 Características  
 
-✅ **Jugabilidad fluida con controles responsivos**  
-✅ **Puntaje alto almacenado en el localStorage**  
-✅ **Diseño responsivo para dispositivos móviles y PC**  
-✅ **Interfaz minimalista con colores oscuros y modernos** 
-✅ **Reinicio automático tras perder la partida** 
-✅ **Controles táctiles en dispositivos móviles**   
+- ✅ **Jugabilidad fluida con controles responsivos**  
+- ✅ **Puntaje alto almacenado en el localStorage**  
+- ✅ **Diseño responsivo para dispositivos móviles y PC**  
+- ✅ **Interfaz minimalista con colores oscuros y modernos** 
+- ✅ **Reinicio automático tras perder la partida** 
+- ✅ **Controles táctiles en dispositivos móviles**   
 
 ## 🚀 Tecnologías utilizadas
 - **HTML** → Estructura del juego.
