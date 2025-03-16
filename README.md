@@ -32,7 +32,7 @@ TetrisClone/
 
 1. **Clona este repositorio**  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone https://github.com/estebanzeaalvarez/Snake-Game.git
    ```
 
 ## 📜 Licencia
